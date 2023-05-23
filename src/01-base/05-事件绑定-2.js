@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 export default class App52 extends Component {
-  a = 100;
+  a = 1000;
   render() {
     return (
       <div>
