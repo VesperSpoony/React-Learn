@@ -9,6 +9,8 @@ import App3 from "./01-base/03-组件的嵌套";
 import App4 from "./01-base/04-组件的样式";
 import App51 from "./01-base/05-事件绑定-1";
 import App52 from "./01-base/05-事件绑定-2";
+import App6 from "./01-base/06-ref";
+import App7 from "./01-base/07-state";
 
 // ReactDOM.render("111", document.getElementById("root"));
 
@@ -26,6 +28,10 @@ root.render(
     <App51></App51>
     <hr></hr>
     <App52></App52>
+    <hr></hr>
+    <App6></App6>
+    <hr></hr>
+    <App7></App7>
   </section>
 );
 // JSXJavaScript XML
