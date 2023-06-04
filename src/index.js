@@ -11,6 +11,7 @@ import App51 from "./01-base/05-事件绑定-1";
 import App52 from "./01-base/05-事件绑定-2";
 import App6 from "./01-base/06-ref";
 import App7 from "./01-base/07-state";
+import App8 from "./01-base/09-循环渲染";
 
 // ReactDOM.render("111", document.getElementById("root"));
 
@@ -32,6 +33,8 @@ root.render(
     <App6></App6>
     <hr></hr>
     <App7></App7>
+    <hr></hr>
+    <App8></App8>
   </section>
 );
 // JSXJavaScript XML
